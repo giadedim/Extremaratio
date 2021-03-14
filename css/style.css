@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: tomato;
+}
+h2 {
+  text-align: center;
+  color: black;
+}
+body {
+  background-color: lightgrey;
+}
+p {
+  font-family: verdana;
+  font-size: 20 px;
+}
